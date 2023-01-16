@@ -41,6 +41,7 @@ With over thousands of recipes available, Food Recipe Finder App promises that y
 --Reduce food waste-- Most people don't realize how much food they throw away every day — from uneaten leftovers to spoiled produce. Food Recipe Finder App is one of the best ways to reduce food waste in the home. It finds recipes that use as many of your ingredients as possible, so nothing goes to waste. Food Recipe Finder App makes food waste prevention fun and easy, just open the menu page on the app and choose a recipe. We help you use what you have, so nothing goes to waste!
 
 ## Demo
+https://azam8172.github.io/Food-Recipe-Finder/
 
 
 
